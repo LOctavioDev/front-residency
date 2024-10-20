@@ -4,7 +4,7 @@ export const Home = () => {
   return (
     <div className="home">
       <Sidebar />
-      <div className="classContainer">
+      <div className="homeContainer">
         container
       </div>
     </div>
